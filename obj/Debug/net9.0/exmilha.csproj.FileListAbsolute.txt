@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exmilha\bin\Debug\net9.0\exmilha.exe
+C:\Users\ls139\Desktop\listas de lógica\exmilha\bin\Debug\net9.0\exmilha.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exmilha\bin\Debug\net9.0\exmilha.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exmilha\bin\Debug\net9.0\exmilha.dll
+C:\Users\ls139\Desktop\listas de lógica\exmilha\bin\Debug\net9.0\exmilha.pdb
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.dll
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\refint\exmilha.dll
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.pdb
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\exmilha.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exmilha\obj\Debug\net9.0\ref\exmilha.dll
